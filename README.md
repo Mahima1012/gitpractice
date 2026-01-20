@@ -7,7 +7,7 @@
 5. . -> current directory
 6. .. -> back directory
 7. ls -> list directory items
-8.clear -> clear the console/terminal
+8. clear -> clear the console/terminal
 9. new-item -> create new file
 
 # GIT Cheatsheet
