@@ -1,14 +1,14 @@
 # CLI Cheatsheet
 
-1. `cd` -> change directory
-2. `md` -> make directory
-3. `code` -> vs code CLI command
-4. `explorer` -> windows file explorer
+1. `cd [folder name]` -> change directory
+2. `md [folder name]` -> make directory
+3. `code [folder name]` -> vs code CLI command
+4. `explorer [folder name]` -> windows file explorer
 5. `.` -> current directory
 6. `..` -> back directory
 7. `ls` -> list directory items
 8. `clear` -> clear the console/terminal
-9. `new-item` -> create new file
+9. `new-item [file name]` -> create new file
 
 # GIT Cheatsheet
 
